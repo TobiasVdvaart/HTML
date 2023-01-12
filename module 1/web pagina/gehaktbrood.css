@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+    }
+    
+    .MijnDiv {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0 auto;
+        margin-right: 0 auto;
+    }
+    
+    p {
+       size: 20px;
+    }
+    
+    li {
+        size: 20px;
+    }
