@@ -40,3 +40,8 @@ ul li a {
 body {
 background-color: #eee;
 }
+
+.repper{
+    width: 800px;
+    margin: 0 auto;
+}
