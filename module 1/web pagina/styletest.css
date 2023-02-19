@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+}
+
+body {
+    background-color: yellow;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: #7C8363;
+}
+
+html {
+    background-color: #31473A;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: purple;
+}
+
+h1 {
+    background-color: rgb(48, 97, 64);
+    text-align: center;
+}

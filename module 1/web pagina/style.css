@@ -1,20 +1,21 @@
-body {background-color: rgb(119, 122, 133);}
+body {background-color: #31473A;}
 
 
 #element {
-    width: 200px;
-    height: 100px;
-    background-color: #555ca3;
+    width: 800px;
+    height: 900px;
+    background-color: #7C8363;
     font-family: Arial, sans-serif;
     font-size: 16px;
     text-align: center;
     line-height: 100px;
     border-radius: 10px;
+  
   }
 
 
   a:link {
-    color: red;
+    color: rgb(14, 48, 32);
   }
   
   a:visited {
@@ -51,7 +52,7 @@ body {background-color: rgb(119, 122, 133);}
   }
   
   h1, h2, h3 {
-    background-color: #ffffff;
+    background-color: #415e4d;
     text-align: center;
   }
   
@@ -63,3 +64,7 @@ body {background-color: rgb(119, 122, 133);}
   nav ul {
     list-style-type: none;
   }
+
+.test-1 {
+  color: #ff00ff;
+}
