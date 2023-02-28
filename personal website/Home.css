@@ -149,4 +149,6 @@ nav ul li a:hover::after{
 }
 
 
-
+.lang{
+    color: #ee0a0a;
+}
