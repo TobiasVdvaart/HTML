@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+    list-style: smooth;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+:root{
+    --bg-color: #ffffff;
+    --text-color: #fff;
+    --secound-color: #a09dab;
+    --main-color: #f75023;
+    --big-front: 5rem;
+    --h2-front: 3rem;
+    --p-front: 1.1rem 
+}
